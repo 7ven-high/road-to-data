@@ -1,23 +1,24 @@
-# Business case: NordBank
+# Business Case: NordBank
 
-## L'entreprise
-NordBank est une banque de détail fictive en Allemagne. Elle gère des
-clients (retail, premium, étudiants), leurs comptes courants et d'épargne,
-leurs transactions et des prêts.
+## The Company
+NordBank is a fictional retail bank in Germany. It manages customers 
+(retail, premium, students), their current and savings accounts, 
+their transactions, and loans.
 
-## Le problème
-La direction veut (1) suivre l'activité, (2) détecter la fraude,
-(3) limiter les prêts non remboursés. Les données sont dispersées et
-pas toujours fiables.
+## The Problem
+Management wants to (1) track business activity, (2) detect fraud, 
+and (3) limit non-performing loans. The data is scattered and 
+not always reliable.
 
-## Le fil conducteur
-Chaque phase du projet répond à cette question avec un outil plus avancé
-(voir tableau dans le README).
+## The Thread
+Each project phase addresses this problem using a more advanced tool 
+(see the table in the README).
 
-## Questions métier
-| N° | Qui | Question | Pourquoi | Données | Outil | Statut |
-|----|-----|----------|----------|---------|-------|--------|
-| Q1 | | | | | | À faire |
+## Business Questions
 
-## Hypothèses et limites
-- Données synthétiques : les résultats ne reflètent pas une vraie banque.
+| No. | Who | Question | Why | Data | Tool | Status |
+|-----|-----|----------|-----|------|------|--------|
+| Q1  |     |          |     |      |      | To do  |
+
+## Assumptions and Limitations
+- Synthetic data: results do not reflect a real bank.
