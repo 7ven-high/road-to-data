@@ -1,0 +1,101 @@
+customer_id,name,birth_date,city,segment,created_at
+1,Aleksandr Weihmann,1972-05-12,Ueckermünde,premium,2024-03-15
+2,Eleni Hauffer,1966-02-11,Kronach,retail,2026-05-23
+3,Paul Dobes-Stey,1987-01-08,Lübz,student,2017-07-26
+4,Klemens Löchel,1941-10-20,Querfurt,retail,2023-02-14
+5,Alexandre Davids,1974-12-15,Anklam,retail,2024-10-07
+6,Eric Pärtzelt B.Sc.,1980-10-04,Flöha,student,2019-11-29
+7,Orhan Seip MBA.,1956-01-16,Garmisch-Partenkirchen,premium,2017-04-24
+8,Dipl.-Ing. Klaus-Werner Holsten B.Sc.,1958-05-30,Wunsiedel,premium,2020-03-21
+9,Univ.Prof. Heimo Karge,1973-02-10,Wertingen,retail,2024-07-27
+10,Carolin Hande,1950-08-15,Haldensleben,retail,2021-06-22
+11,Auguste Davids,1994-10-11,Eisenberg,retail,2021-11-29
+12,Ariane Klemt-Kaul,1974-12-11,Erding,student,2021-06-24
+13,Rosalia Beyer,1964-04-23,Wittenberg,retail,2024-02-15
+14,Kathrin Ebert MBA.,1982-02-02,Koblenz,student,2020-12-29
+15,Karl-Dieter Hornig,1996-09-15,Mainburg,retail,2026-05-24
+16,Leonie Gröttner,1985-07-03,Rathenow,retail,2024-10-07
+17,Anatoli Speer,1940-08-11,Darmstadt,retail,2019-09-05
+18,Ing. Arnulf Heintze B.Sc.,1986-10-16,Rothenburg ob der Tauber,retail,2017-02-20
+19,Erika Metz-Schuster,1989-01-27,Altentreptow,student,2026-01-06
+20,Cathrin Koch II,1997-07-31,Mühldorf am Inn,retail,2024-04-12
+21,Delia Steckel,1940-01-06,Bad Kreuznach,premium,2024-01-21
+22,Mechtild Stoll,1942-01-29,Hildburghausen,retail,2022-06-04
+23,Leif Schuster,1967-07-04,Schwäbisch Hall,student,2017-05-26
+24,Prof. Ottokar Henschel,1968-11-18,Neustrelitz,student,2021-07-08
+25,Dipl.-Ing. Hans-Herbert Hiller,1980-03-25,Bersenbrück,premium,2018-06-23
+26,Univ.Prof. Gotthilf Wilmsen B.Sc.,1958-05-13,Passau,retail,2017-04-20
+27,Herr Romuald Jopich MBA.,1989-12-06,Erbisdorf,retail,2026-09-09
+28,Anne-Katrin Hahn,1989-11-08,Oberviechtach,retail,2024-11-15
+29,Diana Sölzer,1944-07-03,Lübeck,retail,2023-01-11
+30,Dipl.-Ing. Svea Seifert MBA.,1987-06-19,Bremervörde,retail,2019-08-27
+31,Franjo Etzold-Hentschel,1986-12-30,Gadebusch,premium,2017-08-11
+32,Nathalie Sauer,1947-09-30,Sternberg,student,2021-11-03
+33,Prof. Heiderose Klotz,2005-05-11,Hohenstein-Ernstthal,retail,2025-04-20
+34,Dr. Jaroslaw Nohlmans B.Sc.,1973-12-19,Haldensleben,retail,2019-07-25
+35,Steffen Dörschner,1992-12-11,Worbis,retail,2018-02-10
+36,Lukas Freudenberger-Zorbach,1988-05-27,Regen,retail,2019-08-06
+37,Prof. Anne Krause,1947-12-22,Celle,retail,2025-05-13
+38,Lilli Mosemann-Rädel,1945-01-19,Mellrichstadt,retail,2016-12-04
+39,Yasmin Röhrdanz,1992-10-22,Sondershausen,retail,2017-11-25
+40,Milos Ullmann,1955-05-29,Bad Kreuznach,retail,2018-07-13
+41,Mirco Reising,2000-06-30,Kronach,retail,2022-09-14
+42,Paola Segebahn,1992-02-07,Kusel,student,2018-04-19
+43,Beate Hornig,1937-12-05,Plauen,premium,2021-04-02
+44,Dr. Insa Adler,1994-09-15,Aue,retail,2024-11-12
+45,Yvette Otto,1955-08-23,Osterburg,student,2019-05-26
+46,Prof. Urban Döring,1940-06-13,Neustadt am Rübenberge,student,2023-10-17
+47,Sibilla Schwital,1987-10-15,Hamburg,retail,2021-08-20
+48,Cornelius Köster B.A.,1977-11-18,Hettstedt,retail,2024-10-12
+49,Krzysztof Junitz,1941-05-30,Bruchsal,retail,2025-05-28
+50,Frau Beate Klotz B.Eng.,1969-01-06,Pirmasens,retail,2020-03-19
+51,Herr Ernst-Otto Rosenow B.Sc.,1962-01-28,Schwäbisch Hall,retail,2017-08-18
+52,Pascal Neureuther,1972-04-04,Freital,retail,2018-03-27
+53,Raimund Reichmann,1977-03-03,Tirschenreuth,premium,2026-02-15
+54,Carlo Sorgatz-Mülichen,1962-08-18,Böblingen,retail,2018-04-30
+55,Ing. Jose auch Schlauchin,1954-05-30,Pirmasens,premium,2021-09-29
+56,Dr. Uschi Reuter,1943-04-19,Stade,premium,2026-09-21
+57,Olaf Jockel MBA.,1977-09-06,Wolfratshausen,retail,2024-06-28
+58,Imelda Plath,1988-07-20,Aue,retail,2019-03-02
+59,Bertha Hentschel B.A.,1952-06-17,Weißenfels,retail,2021-03-09
+60,Gunther Bärer,1972-12-06,Bad Kissingen,retail,2023-03-01
+61,Prof. Emil Albers B.Sc.,1939-01-01,Bersenbrück,retail,2018-11-23
+62,Erdal Börner,1998-10-13,Eisenhüttenstadt,retail,2024-02-17
+63,Stefano Kabus,1953-08-21,Ravensburg,retail,2020-03-27
+64,Jiri Hellwig,1970-03-24,Rockenhausen,premium,2023-03-18
+65,Marie-Luise Neureuther,1963-09-29,Grevesmühlen,retail,2024-05-04
+66,Juri Eigenwillig MBA.,1946-09-28,Kyritz,retail,2017-12-11
+67,Dipl.-Ing. Ronald Ladeck B.A.,2003-10-06,Seelow,retail,2018-06-18
+68,Benedikt Sorgatz,1998-05-20,Mallersdorf,retail,2020-10-09
+69,Ing. Hildegart Langern,1976-02-23,Apolda,retail,2019-10-19
+70,Solveig Vollbrecht B.Sc.,2002-07-04,Suhl,retail,2024-03-31
+71,Ante Kusch,1989-11-09,Pfaffenhofen an der Ilm,retail,2024-04-23
+72,Ria Dörr,1966-05-27,Sondershausen,retail,2022-02-10
+73,Dr. Donald Reising MBA.,1959-04-12,Wurzen,student,2020-08-01
+74,Heimo Gnatz-Holsten,1966-03-05,Viechtach,retail,2023-11-04
+75,Elfie Bruder MBA.,1988-05-14,Kaiserslautern,retail,2021-07-13
+76,Andrei Siering,1955-08-03,Hainichen,retail,2018-03-28
+77,Zbigniew Davids,1941-06-21,Schlüchtern,retail,2025-06-28
+78,Dr. Hansjürgen Neureuther MBA.,1963-01-01,Günzburg,retail,2016-11-26
+79,Steven Kühnert B.Sc.,1972-06-08,Kronach,retail,2026-01-22
+80,Dipl.-Ing. Abdullah Krebs,2001-08-18,Stendal,premium,2021-04-10
+81,Ursula Ziegert,1948-11-17,Naila,retail,2023-07-28
+82,Eva Löchel MBA.,1994-07-03,Pfaffenhofen an der Ilm,retail,2026-05-28
+83,Donald Hübel-Harloff,2007-06-07,Demmin,student,2023-08-13
+84,Klaus Wähner,2005-06-08,Pritzwalk,retail,2017-03-12
+85,Peter-Michael Johann,1940-10-25,Siegen,retail,2025-12-18
+86,Andrei Sauer,1969-09-27,Hammelburg,retail,2023-02-28
+87,Prof. Trudi Radisch B.A.,1956-05-24,Angermünde,premium,2026-05-07
+88,Wolf-Dietrich Pechel,1997-06-17,Crailsheim,retail,2021-02-07
+89,Simon Gotthard,1959-09-06,Altentreptow,retail,2025-12-19
+90,Konstantinos Börner,1976-02-29,Pirmasens,retail,2025-05-15
+91,Dipl.-Ing. Bruno Roskoth B.A.,1936-05-14,Havelberg,retail,2020-02-19
+92,Lorenzo Butte,1950-06-08,Wolgast,retail,2019-06-16
+93,Univ.Prof. Lidia Rosemann,1976-12-11,Freudenstadt,retail,2017-10-08
+94,Valeria Heß,1957-12-21,Spremberg,retail,2023-05-01
+95,Mesut Trubin B.Eng.,1981-03-31,Ebersberg,retail,2020-09-11
+96,Ing. Hans-Theo Eigenwillig B.Eng.,1969-08-27,Gadebusch,retail,2024-07-08
+97,Freya Weitzel B.Sc.,1978-12-24,Eutin,retail,2024-04-11
+98,Hermann Scholtz,1971-10-20,Eisleben,retail,2024-02-17
+99,Arndt Renner,1992-03-09,Wolmirstedt,retail,2022-09-03
+100,Janus Hettner B.A.,1950-01-19,Spremberg,student,2018-09-26
