@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+pytest
+ruff
+jupyter
+sqlalchemy
+psycopg2-binary
+scikit-learn
+matplotlib

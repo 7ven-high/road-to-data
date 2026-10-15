@@ -1,0 +1,14 @@
+name: nordbank
+version: "1.0.0"
+config-version: 2
+profile: nordbank   # defined in ~/.dbt/profiles.yml (never commit it)
+
+model-paths: ["models"]
+test-paths: ["tests"]
+
+models:
+  nordbank:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
