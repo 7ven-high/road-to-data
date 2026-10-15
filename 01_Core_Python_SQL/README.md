@@ -7,7 +7,7 @@ Clean, explore and query transaction data to answer business questions (e.g. top
 Which tables from the NordBank case are used? (link to `../data/README.md`)
 
 ## Tools
-Python (pandas), PostgreSQL / MySQL
+Python (pandas), SQL
 
 ## Approach
 1. Step 1
