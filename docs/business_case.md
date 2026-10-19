@@ -18,10 +18,11 @@ Each project phase addresses this problem using a more advanced tool
 
 | No. | Who | Business Question | Why It's Useful | Data | Tool | Status |
 |-----|-----|-------------------|-----------------|------|------|--------|
-| Q1  | Management | What is the transaction volume by category and by month? | Track business activity | transactions | SQL | To do |
-| Q2  | Risk Management | What is the share of fraud, and in which categories? | Target fraud controls | transactions | pandas | To do |
-| Q3  | Sales & Marketing | Who are the top 10 spending customers? | Targeted offers | customers, accounts, transactions | SQL (JOIN) | To do |
+| Q1  | Management | What is the transaction volume by category evtl..(and month?) | Track business activity | transactions | SQL | done |
+| Q2  | Risk Management | What share of transactions are fraudulent, and which categories are most affected? | Target fraud controls | transactions | pandas | To do |
+| Q3  | Sales & Marketing | Who are the top 10 customers by spending? | Targeted offers | customers, accounts, transactions | SQL (JOIN) | done |
 | Q4  | Credit Risk | What is the default rate by customer segment? | Measure credit risk | loans, customers | SQL | To do |
+| Q5  | Sales & Marketing | What is the average transaction amount per customer? | Understand customer spending | transactions, customers | SQL (JOIN) | done |
 
 ## Assumptions and Limitations
 - Synthetic data: results do not reflect a real bank.
